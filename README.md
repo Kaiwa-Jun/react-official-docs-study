@@ -1,2 +1,3 @@
 # react-official-docs-study
-aaa
+
+React公式ドキュメントの学習用リポジトリです。
